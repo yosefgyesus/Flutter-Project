@@ -1,4 +1,4 @@
-# Flutter-Project
+# Job Recruitment Application
 |Name| ID|
 |:------|:-------|
 |Abrham Wendmeneh| UGR/9155/13|
