@@ -7,6 +7,7 @@ Once the user signs up, he/she can access the lessons, exercises, and tests avai
 |:------|:-------|
 |Abrham Wendmeneh| UGR/9155/13|
 |Nathnael Getachew| UGR/8932/13|
+|Yosef Aweke| UGR/5887/13|
 |Yosef Gebreyesus| UGR/6364/13|
 
 
