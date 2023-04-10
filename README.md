@@ -13,3 +13,6 @@ Once the user signs up, he/she can access the lessons, exercises, and tests avai
 
 
 
+<br><br><br>
+### **Project Description**<br>
+LanguageLink is a language learning app designed to enable users learn new languages in an easy and engaging manner.
